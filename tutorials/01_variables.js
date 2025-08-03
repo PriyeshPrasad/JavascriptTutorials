@@ -9,7 +9,7 @@ accountEmail = "a@b.com"
 var has issues with scope, so var is not recommended to use in JS
 */
 
-console.table[accountId, accountName, accountDetails, accountEmail];
+console.table([accountId, accountName, accountDetails, accountEmail]);
 
 console.log(accountId);
 console.log(accountName);
